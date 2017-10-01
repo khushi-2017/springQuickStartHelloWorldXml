@@ -1,13 +1,14 @@
 # springQuickStartHelloWorldXml
-
+##
 here we will figure out the problems and will notedown their solutions
-
+##
 1.after making changes in pom file ,getting artifact errors
 	sol: simply update the project -> properties->maven->update project.
-
+##
 2.The requested resource is not available.
 	sol:sol: no proper url binding check requestmappingis correct or not
 		or the method itself is not defined.
+##
 3. use ${} in place of $()
 
 so what have you done upto yet?
